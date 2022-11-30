@@ -2,7 +2,7 @@ data/hyps/hyp.scratch-low.yaml
 data/nia_basketball.yaml      
 mask_yolo_ann_txt.py                        
 json_ls.txt                    
-####mv_no_location.sh & mv_val_split.sh
+####mv_no_location.sh & mv_val_split.sh 
 
 
 ####sbatch_yolo_basketball.sh. 
